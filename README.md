@@ -1,6 +1,8 @@
 # Free-Medium
 
-Automatically open Medium blogs (and similar ones) on the Incognito tab to avoid unnecessary hassle of facing this... :face_with_head_bandage:
+Automatically open Medium blogs (and similar ones) on the Incognito tab to avoid unnecessary hassle of facing this... :face_with_head_bandage:  
+
+
 ![Medium Upgrade](/images/medium.jpeg)
 
 > **Note:** Currently it only works when you open the medium link in a new tab. Better to use `Ctrl  + Left Click` to open the link in the new tab and then the extension will close it and open it in an incognito window. 
