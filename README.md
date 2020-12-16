@@ -16,3 +16,13 @@ Automatically open Medium blogs (and similar ones) on the Incognito tab to avoid
 [i1]: https://github.com/jai-dewani/Free-Medium/issues/1
 [i2]: https://github.com/jai-dewani/Free-Medium/issues/2
 [i3]: https://github.com/jai-dewani/Free-Medium/issues/3
+
+## How to Install 
+
+- **Clone** the repo by running  
+`git clone https://github.com/jai-dewani/Free-Medium.git`  
+or downloading the repo in zip and unziping it 
+
+- Open Google Chrome or any Chromium based browser and goto `chrome://extensions/` 
+- Check the box/slider for **Developer mode**
+- Click the **Load unpacked extension** button and select the project folder you just downloaded to install the extension.
